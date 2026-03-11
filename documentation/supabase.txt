@@ -1,0 +1,21 @@
+password:r8toYdKPWoggCYrr
+# مفاتيح الواجهة الأمامية (تظهر للمتصفح)
+NEXT_PUBLIC_SUPABASE_URL=https://rpfliekiobxoibkatqah.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJwZmxpZWtpb2J4b2lia2F0cWFoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMwNzA0NDMsImV4cCI6MjA4ODY0NjQ0M30.pSJXoPQjjEjFf-YEO6wgqywXBg8Y7YybId90iOXKc-M
+
+# مفاتيح السيرفر فقط (سرية للغاية - لا تنشرها)
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJwZmxpZWtpb2J4b2lia2F0cWFoIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MzA3MDQ0MywiZXhwIjoyMDg4NjQ2NDQzfQ.wn9mLkGdlxGzpNCeAvy_2gU-BW--lHyhNXSOMMtybNY
+
+# رابط الاتصال المباشر لقاعدة البيانات (لعمل الـ Migrations)
+DATABASE_URL="postgresql://postgres.rpfliekiobxoibkatqah:r8toYdKPWoggCYrr@aws-1-ap-northeast-1.pooler.supabase.com:6543/postgres"
+
+GOOGLE_CLIENT_ID="620431367826-6quk88f4v37k2jl6gffderndfi40273q.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET="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"
+
+GOOGLE_REFRESH_TOKEN="1//04a5f6XIl7iSWCgYIARAAGAQSNwF-L9IrLDTgaPsx5XUCRZuZ5nUCHrQAwlSBCgZKgH2bOoWkCyGTLRvbYcPp3JNKbnJmP7WVwkc"
+GOOGLE_EMAIL="studioplatformsp@gmail.com"
+
+# ---------------------------------------------------------
+# NEXT.js CONFIGURATION
+# ---------------------------------------------------------
+NEXT_PUBLIC_SITE_URL="http://localhost:3000"
